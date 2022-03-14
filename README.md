@@ -1,6 +1,6 @@
-# friendly_chat
+# flutter_friendly_chat
 
-A new Flutter project.
+This repo is introduction for Flutter developement. A learning process to familiar with dart language programming. And also for multi-platform developement knowledge.
 
 ## Getting Started
 
